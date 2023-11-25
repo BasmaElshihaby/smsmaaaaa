@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Libre Baskerville', serif;
+    color: yellow;
+}
+
+h2{
+    color: yellowgreen;
+}
+html{
+    background-color: black;
+}
+img{
+    width: 500px;
+    height: 600px;
+    
+    }
+
+#div1{
+text-align: center;
+width: 50%;
+  margin-left: 25%;
+  margin-top: 35%;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+
+}
+
+#div2{
+    background-color: rgb(26, 25, 25);
+width: 400px;
+margin-left: 100px;
+}
+
+a{
+    color: blue;
+}
+
